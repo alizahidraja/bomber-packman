@@ -6,10 +6,10 @@ Its the traditional Packman game, with a twist that lets you add a bomb anywhere
 
 ## Demo
 
-### Image
-
-![Bomber Packman](demo/demo.png)
-
 ### Video
 
 ![Bomber Packman](demo/demo.gif)
+
+### Image
+
+![Bomber Packman](demo/demo.png)
